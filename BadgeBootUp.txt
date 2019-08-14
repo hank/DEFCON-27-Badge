@@ -1,0 +1,43 @@
+Welcome to the DEFCON 27 Official Badge
+
+Designed by Joe Grand [@joegrand] aka Kingpin
+grandideastudio.com/portfolio/defcon-27-badge/
+
+[*] Starting Initialization
+[*] MKL27Z64 Unique Identifier: 0x000000370028501850274E45 [32-bit: 0x771A02E9]
+[*] Core Clock = 8000000Hz
+[*] Initializing Flash Memory
+-> Memory Size = 64KB [0x10000]
+-> Sector Size = 1KB [0x400]
+[*] Badge Type = Human
+[*] Badge State = Attract
+[*] Game Flags = 00000000
+[*] Magic Token = False
+[*] Testing Piezo...Done!
+[*] Configuring LED Driver...Done!
+[*] Configuring NFMI Radio
+-> Entering Bootloader...Done!
+-> Firmware Version: 0x01 0x00
+-> Hardware Version: 0x2261 0xA100
+-> ROM Version: 0x01 0x00
+-> Programming...Done!
+-> Executing Program...Done!
+-> Calibrating...Done!
+[*] Loading Data: 0xD7D7D1DAD0D2DED9D0D0D0D0D0D0D0D0
+[*] Initialization Complete
+[*] USB-to-Serial Adapter Detected
+[*] Entering Interactive Mode [Press 'H' for Commands]
+
+
+> 0x771A02E900000000
+-> Unique ID: 0x771A02E9
+-> Badge Type: Human
+-> Magic Token: No
+-> Game Flags: 00000000
+
+> Waiting for Packet(s)...
+0x76B672AE00000100
+-> Unique ID: 0x76B672AE
+-> Badge Type: Human
+-> Magic Token: No
+-> Game Flags: 00000001
